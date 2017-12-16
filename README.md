@@ -1,2 +1,0 @@
-# jane-site
-bla bla
